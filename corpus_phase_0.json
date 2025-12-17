@@ -1,0 +1,2272 @@
+[
+  {
+    "episode_id": 0,
+    "phase": 0,
+    "steps": [
+      {
+        "t": 0,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                16
+              ],
+              "color": 2,
+              "shape": 2
+            }
+          ]
+        },
+        "action": 1,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 1,
+        "observation": {
+          "self": [
+            9,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                15
+              ],
+              "color": 2,
+              "shape": 2
+            }
+          ]
+        },
+        "action": 3,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 2,
+        "observation": {
+          "self": [
+            9,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                14
+              ],
+              "color": 2,
+              "shape": 2
+            }
+          ]
+        },
+        "action": 1,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 3,
+        "observation": {
+          "self": [
+            8,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                13
+              ],
+              "color": 2,
+              "shape": 2
+            }
+          ]
+        },
+        "action": 2,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 4,
+        "observation": {
+          "self": [
+            9,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                12
+              ],
+              "color": 2,
+              "shape": 2
+            }
+          ]
+        },
+        "action": 2,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 5,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                11
+              ],
+              "color": 2,
+              "shape": 2
+            }
+          ]
+        },
+        "action": 0,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 6,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                10
+              ],
+              "color": 2,
+              "shape": 2
+            }
+          ]
+        },
+        "action": 3,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 7,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                9
+              ],
+              "color": 2,
+              "shape": 2
+            }
+          ]
+        },
+        "action": 0,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 8,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                8
+              ],
+              "color": 2,
+              "shape": 2
+            }
+          ]
+        },
+        "action": 1,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 9,
+        "observation": {
+          "self": [
+            9,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                7
+              ],
+              "color": 2,
+              "shape": 2
+            }
+          ]
+        },
+        "action": 0,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 10,
+        "observation": {
+          "self": [
+            9,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                6
+              ],
+              "color": 2,
+              "shape": 2
+            }
+          ]
+        },
+        "action": 3,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 11,
+        "observation": {
+          "self": [
+            9,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                5
+              ],
+              "color": 2,
+              "shape": 2
+            }
+          ]
+        },
+        "action": 2,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 12,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                4
+              ],
+              "color": 2,
+              "shape": 2
+            }
+          ]
+        },
+        "action": 0,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 13,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                3
+              ],
+              "color": 2,
+              "shape": 2
+            }
+          ]
+        },
+        "action": 0,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 14,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                2
+              ],
+              "color": 2,
+              "shape": 2
+            }
+          ]
+        },
+        "action": 3,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 15,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                1
+              ],
+              "color": 2,
+              "shape": 2
+            }
+          ]
+        },
+        "action": 0,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": 1,
+    "phase": 0,
+    "steps": [
+      {
+        "t": 0,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                16
+              ],
+              "color": 1,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 0,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 1,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                15
+              ],
+              "color": 1,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 1,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 2,
+        "observation": {
+          "self": [
+            9,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                14
+              ],
+              "color": 1,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 1,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 3,
+        "observation": {
+          "self": [
+            8,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                13
+              ],
+              "color": 1,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 1,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 4,
+        "observation": {
+          "self": [
+            7,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                12
+              ],
+              "color": 1,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 2,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 5,
+        "observation": {
+          "self": [
+            8,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                11
+              ],
+              "color": 1,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 3,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 6,
+        "observation": {
+          "self": [
+            8,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                10
+              ],
+              "color": 1,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 2,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 7,
+        "observation": {
+          "self": [
+            9,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                9
+              ],
+              "color": 1,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 3,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 8,
+        "observation": {
+          "self": [
+            9,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                8
+              ],
+              "color": 1,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 2,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 9,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                7
+              ],
+              "color": 1,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 1,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 10,
+        "observation": {
+          "self": [
+            9,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                6
+              ],
+              "color": 1,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 0,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 11,
+        "observation": {
+          "self": [
+            9,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                5
+              ],
+              "color": 1,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 0,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 12,
+        "observation": {
+          "self": [
+            9,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                4
+              ],
+              "color": 1,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 3,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 13,
+        "observation": {
+          "self": [
+            9,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                3
+              ],
+              "color": 1,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 0,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 14,
+        "observation": {
+          "self": [
+            9,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                2
+              ],
+              "color": 1,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 2,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 15,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                1
+              ],
+              "color": 1,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 0,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": 2,
+    "phase": 0,
+    "steps": [
+      {
+        "t": 0,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                16
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 0,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 1,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                15
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 0,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 2,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                14
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 0,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 3,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                13
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 1,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 4,
+        "observation": {
+          "self": [
+            9,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                12
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 1,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 5,
+        "observation": {
+          "self": [
+            8,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                11
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 2,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 6,
+        "observation": {
+          "self": [
+            9,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                10
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 1,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 7,
+        "observation": {
+          "self": [
+            8,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                9
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 0,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 8,
+        "observation": {
+          "self": [
+            8,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                8
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 2,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 9,
+        "observation": {
+          "self": [
+            9,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                7
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 2,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 10,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                6
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 0,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 11,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                5
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 3,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 12,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                4
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 1,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 13,
+        "observation": {
+          "self": [
+            9,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                3
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 3,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 14,
+        "observation": {
+          "self": [
+            9,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                2
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 3,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 15,
+        "observation": {
+          "self": [
+            9,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                1
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 1,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": 3,
+    "phase": 0,
+    "steps": [
+      {
+        "t": 0,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                4,
+                16
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 3,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 1,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                4,
+                15
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 0,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 2,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                4,
+                14
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 1,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 3,
+        "observation": {
+          "self": [
+            9,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                4,
+                13
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 0,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 4,
+        "observation": {
+          "self": [
+            9,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                4,
+                12
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 2,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 5,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                4,
+                11
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 1,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 6,
+        "observation": {
+          "self": [
+            9,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                4,
+                10
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 1,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 7,
+        "observation": {
+          "self": [
+            8,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                4,
+                9
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 1,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 8,
+        "observation": {
+          "self": [
+            7,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                4,
+                8
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 3,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 9,
+        "observation": {
+          "self": [
+            7,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                4,
+                7
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 2,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 10,
+        "observation": {
+          "self": [
+            8,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                4,
+                6
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 3,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 11,
+        "observation": {
+          "self": [
+            8,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                4,
+                5
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 3,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 12,
+        "observation": {
+          "self": [
+            8,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                4,
+                4
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 1,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 13,
+        "observation": {
+          "self": [
+            7,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                4,
+                3
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 2,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 14,
+        "observation": {
+          "self": [
+            8,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                4,
+                2
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 1,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 15,
+        "observation": {
+          "self": [
+            7,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                4,
+                1
+              ],
+              "color": 2,
+              "shape": 1
+            }
+          ]
+        },
+        "action": 0,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": 4,
+    "phase": 0,
+    "steps": [
+      {
+        "t": 0,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                16
+              ],
+              "color": 0,
+              "shape": 0
+            }
+          ]
+        },
+        "action": 3,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 1,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                15
+              ],
+              "color": 0,
+              "shape": 0
+            }
+          ]
+        },
+        "action": 3,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 2,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                14
+              ],
+              "color": 0,
+              "shape": 0
+            }
+          ]
+        },
+        "action": 3,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 3,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                13
+              ],
+              "color": 0,
+              "shape": 0
+            }
+          ]
+        },
+        "action": 1,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 4,
+        "observation": {
+          "self": [
+            9,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                12
+              ],
+              "color": 0,
+              "shape": 0
+            }
+          ]
+        },
+        "action": 0,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 5,
+        "observation": {
+          "self": [
+            9,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                11
+              ],
+              "color": 0,
+              "shape": 0
+            }
+          ]
+        },
+        "action": 2,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 6,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                10
+              ],
+              "color": 0,
+              "shape": 0
+            }
+          ]
+        },
+        "action": 0,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 7,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                9
+              ],
+              "color": 0,
+              "shape": 0
+            }
+          ]
+        },
+        "action": 1,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 8,
+        "observation": {
+          "self": [
+            9,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                8
+              ],
+              "color": 0,
+              "shape": 0
+            }
+          ]
+        },
+        "action": 2,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 9,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                7
+              ],
+              "color": 0,
+              "shape": 0
+            }
+          ]
+        },
+        "action": 0,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 10,
+        "observation": {
+          "self": [
+            10,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                6
+              ],
+              "color": 0,
+              "shape": 0
+            }
+          ]
+        },
+        "action": 1,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 11,
+        "observation": {
+          "self": [
+            9,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                5
+              ],
+              "color": 0,
+              "shape": 0
+            }
+          ]
+        },
+        "action": 1,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 12,
+        "observation": {
+          "self": [
+            8,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                4
+              ],
+              "color": 0,
+              "shape": 0
+            }
+          ]
+        },
+        "action": 1,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 13,
+        "observation": {
+          "self": [
+            7,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                3
+              ],
+              "color": 0,
+              "shape": 0
+            }
+          ]
+        },
+        "action": 1,
+        "reward": -1,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 14,
+        "observation": {
+          "self": [
+            6,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                2
+              ],
+              "color": 0,
+              "shape": 0
+            }
+          ]
+        },
+        "action": 3,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      },
+      {
+        "t": 15,
+        "observation": {
+          "self": [
+            6,
+            4
+          ],
+          "robot": [
+            1,
+            4
+          ],
+          "objects": [
+            {
+              "coords": [
+                7,
+                1
+              ],
+              "color": 0,
+              "shape": 0
+            }
+          ]
+        },
+        "action": 0,
+        "reward": 0,
+        "info": {
+          "action_possible": true
+        }
+      }
+    ]
+  }
+]
